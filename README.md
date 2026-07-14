@@ -32,6 +32,7 @@ Automatically updates return date,
 Increases available stock,
 Prevents duplicate returns.
 
+...
 
 Borrowing History:
 Displays all borrowing records.
